@@ -44,8 +44,9 @@ Review the notes in `notes/mona-notes.md`, then fetch and review:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
-Use those sources to refresh `site/content/github-info.md` so it reflects current GitHub themes, blog coverage, and changelog highlights. Keep the content aligned with Mona's editorial angle based on official GitHub references:
+Use those sources to refresh `site/content/github-info.md` so it reflects current GitHub themes, blog coverage, changelog highlights, and notable Copilot workflow inspiration. Keep the content aligned with Mona's editorial angle based on official GitHub references:
 
 - docs.github.com
 - github.blog
